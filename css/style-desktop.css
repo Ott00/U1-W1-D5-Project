@@ -65,6 +65,10 @@ header img{
     color: white;
 }
 
+.cover .cover-btn:hover{
+    cursor: pointer;
+}
+
 /* Text Card Block */
 
 .image-aside{
